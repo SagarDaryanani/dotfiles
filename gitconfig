@@ -59,3 +59,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = sagar.daryanani@gmail.com
+	name = Sagar Daryanani
